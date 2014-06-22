@@ -1,0 +1,12 @@
+[Files]
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\ScientificCalculator.exe" "ScientificCalculator.exe"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\Logo.scale-100.png" "Assets\Logo.scale-100.png"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\SmallLogo.scale-100.png" "Assets\SmallLogo.scale-100.png"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\SplashScreen.scale-100.png" "Assets\SplashScreen.scale-100.png"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\StoreLogo.scale-100.png" "Assets\StoreLogo.scale-100.png"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Common\ReadMe.txt" "Common\ReadMe.txt"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\App.xbf" "App.xbf"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\MainPage.xbf" "MainPage.xbf"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\ScientificCalculator.xr.xml" "ScientificCalculator.xr.xml"
+"C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\resources.pri" "resources.pri"

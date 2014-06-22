@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAY-PC</Machine>
+    <WindowsUser>Abhimanyu</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>15584MrGrubs.CalcuLite</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Abhimanyu\Documents\Visual Studio 2013\Projects\ScientificCalculator\ScientificCalculator\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>55FBBF3126B5A19A75FC59279850B3B5C8D8749264D732FF0FC3495659BFCF62</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>15584MrGrubs.CalcuLite_1.1.0.2_neutral__fbfspv1z0rs94</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>15584MrGrubs.CalcuLite_fbfspv1z0rs94!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>15584MrGrubs.CalcuLite</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=F0C455EC-0006-48D9-9E3C-E7BC314CDF34</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.2</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-22T06:20:46.671</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe">
+      <PackagePath>ScientificCalculator.exe</PackagePath>
+      <Modified>2014-06-22T05:57:50.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-22T06:05:20.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-22T06:04:48.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-22T06:10:04.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-22T06:04:25.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-05-11T16:19:09.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-05-11T16:18:10.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-22T05:57:50.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.xr.xml">
+      <PackagePath>ScientificCalculator.xr.xml</PackagePath>
+      <Modified>2014-06-22T04:39:10.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-22T06:20:46.574</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

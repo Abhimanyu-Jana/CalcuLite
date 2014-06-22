@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAY-PC</Machine>
+    <WindowsUser>Abhimanyu</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>15584MrGrubs.CalcuLite</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Abhimanyu\Documents\Visual Studio 2013\Projects\ScientificCalculator\ScientificCalculator\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\ScientificCalculator.exe">
+      <PackagePath>ScientificCalculator.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\ScientificCalculator.xr.xml">
+      <PackagePath>ScientificCalculator.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Abhimanyu\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
